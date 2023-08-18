@@ -3,6 +3,8 @@ public class App {
         System.out.println("Hello folks");
         System.out.println("Second Push");
         System.out.println("Third Push");
+        System.out.println("Fourth Push");
+
         HelloWorldEndpoint helloWorldEndpoint = new HelloWorldEndpoint();
         UserEndpoint userEndpoint = new UserEndpoint();
     }
