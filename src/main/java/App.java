@@ -3,10 +3,10 @@ public class App {
         System.out.println("Hello folks");
         System.out.println("Second Push");
         System.out.println("Third Push");
-        System.out.println("Fouth Push Skipped Its Fifth Push");
-        System.out.println("Sixth Push Added");
-        System.out.println("Seventh Push Added");
-        System.out.println("Eight Push Added");
+        System.out.println("Fouth Push");
+        System.out.println("Sixth Push");
+        System.out.println("Seventh Push");
+        System.out.println("Eight Push");
 
 
         HelloWorldEndpoint helloWorldEndpoint = new HelloWorldEndpoint();
