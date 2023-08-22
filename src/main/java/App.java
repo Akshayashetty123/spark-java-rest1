@@ -7,8 +7,7 @@ public class App {
         System.out.println("Sixth Push");
         System.out.println("Seventh Push");
         System.out.println("Eight Push");
-
-
+        System.out.println("I have made required changes in staging");
         HelloWorldEndpoint helloWorldEndpoint = new HelloWorldEndpoint();
         UserEndpoint userEndpoint = new UserEndpoint();
     }
